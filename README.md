@@ -78,19 +78,6 @@ python cafe_kiosk_chatbot.py
 
 ---
 
-## 👨‍💻 개발자
-
-**AI응용 실습9_팀프로젝트**  
-3조: 권서영, 박애빈, 박정현, 이장산, 이토아, 이석제
-
----
-
-## 📄 라이센스
-
-MIT License
-
----
-
 <div align="center">
 Made with ☕ by Team 3
 </div>
